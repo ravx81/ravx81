@@ -2,12 +2,7 @@
 
 <p align="center">
   <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550
-       &lines=Hey%2C+I+am+ravx81;
-               Improving+my+English+%F0%9F%87%AC%F0%9F%87%A7;
-               Learning+German+from+scratch+%F0%9F%87%A9%F0%9F%87%AA;
-               Diving+into+C%2B%2B+development;
-               Exploring+the+world+of+cybersecurity+%F0%9F%92%BB" 
+       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=Hey%2C+I+am+ravx81;Improving+my+English+%F0%9F%87%AC%F0%9F%87%A7;Learning+German+from+scratch+%F0%9F%87%A9%F0%9F%87%AA;Diving+into+C%2B%2B+development;Exploring+the+world+of+cybersecurity+%F0%9F%92%BB" 
        alt="Typing SVG" />
 </p>
 
