@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=currently%3A+thumbing+through+g;cybersecurity+enthusiast;malware+developer;reverse+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=currently%3A+reverse+engineering+the+matrix;currently%3A+debugging+life+in+real-time;currently%3A+speedrunning+reality;currently%3A+injecting+shellcode+into+my+coffee" alt="Typing SVG" />
 </p>
+
 
