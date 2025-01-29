@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=currently%3A+thumbing+through+g;cybersecurity+enthusiast;malware+developer;reverse+engineering" alt="Typing SVG" />
+</p>
+
