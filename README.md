@@ -1,21 +1,31 @@
 ## Hi there 👋
-
-<!--
-**ravx81/ravx81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=currently%3A+reverse+engineering+the+matrix;currently%3A+debugging+life+in+real-time;currently%3A+speedrunning+reality;currently%3A+injecting+shellcode+into+my+coffee" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Hey%2C+I+am+ravx81;Improving+my+English+🇬🇧;Learning+German+from+scratch+🇩🇪;Diving+into+C%2B%2B+development;Exploring+the+world+of+cybersecurity" alt="Typing SVG" />
 </p>
+
+---
+
+## 👤 About Me  
+Hello! I am an IT enthusiast, mainly focused on cybersecurity and its various branches.  
+I enjoy low-level programming, reverse engineering, and exploring malware development.  
+
+---
+
+## 📜 Certifications  
+*(None yet, but still working on it!)*  
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" alt="Visual Studio 2022"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="Visual Studio Code"/>
+</p>
+
+---
+
 
 
