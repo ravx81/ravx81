@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Hey%2C+I+am+ravx81;Improving+my+English+🇬🇧;Learning+German+from+scratch+🇩🇪;Diving+into+C%2B%2B+development;Exploring+the+world+of+cybersecurity+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=435&lines=Hey%2C+I+am+ravx81;📖 Improving my English &#127468;&#127463;;🆕 Learning German from scratch &#127465;&#127466;;🏗️ Diving into C++ development;🛡️ Exploring the world of cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,3 @@ I enjoy low-level programming, reverse engineering, and exploring malware develo
 </p>
 
 ---
-
-
-
-
